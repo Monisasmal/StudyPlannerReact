@@ -1,9 +1,11 @@
-**📚 Study Planner - React App**
+## 📚 Study Planner - React App
 
 A simple and effective Education Planner to organize your study schedule.
 This app allows you to add subjects, allocate study hours, and adjust the hours dynamically with an intuitive UI.
 
-**✨ Features**
+---
+
+## ✨ Features
 
 Add Subjects
 
@@ -25,9 +27,13 @@ Clear All Subjects
 
 Remove all subjects and start fresh when needed.
 
-**🔗 [Live Demo](https://study-planner-react.vercel.app/)**
+---
 
-**🛠️ Tech Stack**
+## 🔗 [Live Demo](https://study-planner-react.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
 
 | Technology       | Usage                   |
 | ---------------- | ----------------------- |
@@ -36,10 +42,14 @@ Remove all subjects and start fresh when needed.
 | **Tailwind CSS** | Styling and layout      |
 | **LocalStorage** | Data persistence        |
 
-**📸 Screenshot**
+---
+
+## 📸 Screenshot
 <img width="1359" height="687" alt="image" src="https://github.com/user-attachments/assets/fa8a3a7b-a5f6-4015-9327-437d2162fcde" />
 
-**📬 Contact**
+---
+
+## 📬 Contact
 
 GitHub: [https://github.com/Monisasmal]
 
